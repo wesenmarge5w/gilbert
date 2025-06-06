@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://wesenmarge5w.github.io/gilbert/sitemap.xml
+Disallow: /
